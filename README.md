@@ -24,34 +24,15 @@ Tenho 23 anos e sou apaixonado por tecnologia, aprendizado contínuo e por trans
 - **Django (Python)**
 
 ### 🔹 Frontend
-- **JavaScript**
 - **React**
-
-### 🔹 Dados & Análise
-- **Python**
-- **Pandas**
+- **Tailwind**
 
 ### 🔹 Banco de Dados
 - **MySQL**
 
----
-
-## 📌 O que você vai encontrar por aqui
-
-Neste GitHub você encontrará:
-
-- 📦 Projetos em **Java**, focados em backend e lógica de negócio  
-- 🔌 APIs e aplicações integradas com banco de dados  
-- 🐍 Projetos em **Python**, incluindo uso de **Django** e **Pandas**  
-- 🧪 Estudos, testes e experimentos com novas tecnologias  
-
-Todos os projetos refletem minha evolução como desenvolvedor e meu compromisso com código limpo e organizado.
-
----
-
 ## 📈 Objetivos
 
-- Evoluir cada vez mais como **desenvolvedor backend**
+- Evoluir cada vez mais como **desenvolvedor** e como **profissional**
 - Aprofundar conhecimentos em **Java** e arquitetura de software
 - Criar soluções robustas, escaláveis e bem documentadas
 - Contribuir para projetos que gerem impacto real
@@ -61,5 +42,5 @@ Todos os projetos refletem minha evolução como desenvolvedor e meu compromisso
 ## 📫 Vamos nos conectar?
 
 Fique à vontade para explorar meus repositórios, abrir issues ou trocar ideias.  
-Sempre aberto a aprender, colaborar e compartilhar conhecimento 🚀
+Sempre aberto a aprender, colaborar e compartilhar conhecimento
 
