@@ -5,9 +5,7 @@
 
 Tenho 23 anos e sou apaixonado por tecnologia, aprendizado contínuo e por transformar problemas complexos em código simples e funcional.
 
----
-
-## 🚀 Sobre mim
+## Sobre mim
 
 - 👨‍💻 Desenvolvedor de Software
 - ☕ Stack principal: **Java**
@@ -15,31 +13,15 @@ Tenho 23 anos e sou apaixonado por tecnologia, aprendizado contínuo e por trans
 - 📚 Sempre estudando boas práticas, clean code e arquitetura
 - 🇧🇷 Brasil
 
----
 
-## 🛠️ Tecnologias & Ferramentas
-
-### 🔹 Backend
-- **Java**
-- **Django (Python)**
-
-### 🔹 Frontend
-- **React**
-- **Tailwind**
-
-### 🔹 Banco de Dados
-- **MySQL**
-
-## 📈 Objetivos
+## Objetivos
 
 - Evoluir cada vez mais como **desenvolvedor** e como **profissional**
 - Aprofundar conhecimentos em **Java** e arquitetura de software
 - Criar soluções robustas, escaláveis e bem documentadas
 - Contribuir para projetos que gerem impacto real
 
----
-
-## 📫 Vamos nos conectar?
+## Vamos nos conectar?
 
 Fique à vontade para explorar meus repositórios, abrir issues ou trocar ideias.  
 Sempre aberto a aprender, colaborar e compartilhar conhecimento
