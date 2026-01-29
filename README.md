@@ -3,7 +3,7 @@
 🎯 Desenvolvedor de Software, com foco em **Backend** e stack principal em **Java**.  
 💻 Atualmente atuo como desenvolvedor, sempre buscando evoluir tecnicamente e entregar soluções bem estruturadas, eficientes e escaláveis.
 
-Tenho 23 anos e sou apaixonado por tecnologia, aprendizado contínuo e por transformar problemas complexos em código simples e funcional.
+Tenho 23 anos e sou entusiasta por tecnologia, aprendizado contínuo e trazer soluções simples para problemas complexos.
 
 ## Sobre mim
 
